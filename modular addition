@@ -1,0 +1,5 @@
+"Airburst Missile": {
+    url: "https://raw.githubusercontent.com/USERNAME/repo/main/airburst.mp3",
+    loop: false,
+    volume: 1.0
+}
